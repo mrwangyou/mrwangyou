@@ -2,7 +2,7 @@
 - 👀 I’m interested in you
 - 🌱 I’m currently learning reinforcement learning
 - 💞️ I’m looking to collaborate on math
-- 📫 Mail mrwangyou@qq.com
+- 📫 Mail mrwangyou@stu.xjtu.edu.cn
 
 <!---
 mrwangyou/mrwangyou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
