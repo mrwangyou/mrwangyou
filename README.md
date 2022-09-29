@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mrwangyou
-- 👀 I’m interested in you
+- 👀 I’m interested in air combat simulation
 - 🌱 I’m currently learning reinforcement learning
-- 💞️ I’m looking to collaborate on math
+- 💞️ I’m looking to collaborate on dogfight benchmark
 - 📫 Mail mrwangyou@stu.xjtu.edu.cn
 
 <!---
